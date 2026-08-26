@@ -174,7 +174,11 @@ Transformando ideias e problemas reais em produtos digitais úteis.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Fermunizs/Fermunizs/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://fermunizs.github.io/Fermunizs/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://fermunizs.github.io/Fermunizs/github-contribution-grid-snake.svg">
+  <img src="https://fermunizs.github.io/Fermunizs/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
 
 <br>
 
