@@ -146,26 +146,6 @@ Turning ideas and real problems into useful digital products.
 
 <br>
 
-## 📌 Selected projects
-
-<br>
-
-| Project | What it represents |
-|---|---|
-| 💎 [Maliá](https://github.com/Fermunizs/malia) | E-commerce · Supabase · JavaScript |
-| 💰 [Fintech](https://github.com/Fermunizs/fintech) | Financial management · React · JavaScript |
-| 🎯 [Counting My Goals](https://github.com/Fermunizs/counting-my-goals) | Goals · Web development |
-| 🧪 [JavaScript Playground](https://github.com/Fermunizs/javascript-playground) | Logic · Challenges · Fundamentals |
-| 🐍 [Python Playground](https://github.com/Fermunizs/python-playground) | Python fundamentals · Practice |
-| ☕ [Java Playground](https://github.com/Fermunizs/java-playground) | Java · OOP · Backend fundamentals |
-| 🔷 [TypeScript Playground](https://github.com/Fermunizs/typescript-playground) | TypeScript · Types · Practice |
-
-<br>
-
----
-
-<br>
-
 ## 📊 GitHub activity
 
 <div align="center">
