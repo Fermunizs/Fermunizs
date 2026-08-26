@@ -146,28 +146,6 @@ Turning ideas and real problems into useful digital products.
 
 <br>
 
-## 📊 GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fermunizs&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fermunizs&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-
-<br><br><br>
-
-<img src="https://streak-stats.demolab.com?user=Fermunizs&theme=transparent&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<br><br>
-
----
-
-<br>
-
 ## 🐍 Contribution activity
 
 <div align="center">
@@ -175,9 +153,9 @@ Turning ideas and real problems into useful digital products.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://fermunizs.github.io/Fermunizs/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://fermunizs.github.io/Fermunizs/github-contribution-grid-snake.svg">
-  <img src="https://fermunizs.github.io/Fermunizs/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fermunizs/Fermunizs/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fermunizs/Fermunizs/gh-pages/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Fermunizs/Fermunizs/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </picture>
 
 <br>
