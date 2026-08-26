@@ -4,36 +4,64 @@
 
 ### Software Engineer · Backend Developer · Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=5066A6&center=true&vCenter=true&width=760&lines=Turning+business+problems+into+digital+solutions.;Building+backends%2C+automations+%26+products.;Always+learning.+Always+building." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=5066A6&center=true&vCenter=true&width=760&lines=Transformando+problemas+de+neg%C3%B3cio+em+solu%C3%A7%C3%B5es+digitais.;Construindo+backends%2C+automa%C3%A7%C3%B5es+%26+produtos.;Sempre+aprendendo.+Sempre+construindo." alt="Typing animation" />
 
 <br>
+
+🇧🇷 **Português** &nbsp; · &nbsp; [🇺🇸 English](README.en.md)
+
+<br><br>
 
 <img src="https://img.shields.io/github/followers/Fermunizs?style=flat&logo=github&label=Followers" alt="GitHub followers" />
 <img src="https://komarev.com/ghpvc/?username=Fermunizs&style=flat&label=Profile+Views" alt="Profile views" />
 
 </div>
 
+<br>
+
 ---
 
-## 👋 About me
+<br>
 
-I'm a **Software Engineering student and backend-focused developer** passionate about building technology that solves real problems.
+## 👋 Sobre mim
 
-I like going beyond the code: understanding the **business, process, user and experience** behind a problem, then turning that understanding into a practical digital solution.
+Sou estudante de **Engenharia de Software** e desenvolvedora com foco em backend, apaixonada por transformar problemas reais em soluções digitais.
+
+Gosto de ir além do código: entender **negócio, processo, usuário e experiência** antes de pensar na solução.
+
+<br>
 
 ```text
-Business problem → Understanding → Architecture → Development → Automation → Better experience
+Problema de negócio
+        ↓
+   Entendimento
+        ↓
+    Arquitetura
+        ↓
+   Desenvolvimento
+        ↓
+     Automação
+        ↓
+Melhor experiência
 ```
 
-**Focus:** Backend · Automation · APIs · Integrations · Databases · Digital Products
+<br>
+
+**Meu foco:** Backend · Automação · APIs · Integrações · Bancos de dados · Produtos digitais
+
+<br>
 
 ---
 
-## 🧠 How I think about technology
+<br>
 
-I don't want to just learn technologies.
+## 🧠 Como penso sobre tecnologia
 
-I want to **build things with them**.
+Não quero apenas aprender tecnologias.
+
+Quero **construir coisas com elas**.
+
+<br>
 
 ```javascript
 const fer = {
@@ -45,95 +73,188 @@ const fer = {
 };
 ```
 
+<br>
+
 ---
+
+<br>
 
 ## 🛠️ Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,express,flask,postgres,supabase,html,css,git,github,docker" alt="Tech stack" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,express,flask,postgres,supabase,html,css,git,github" alt="Tech stack" />
+
+<br><br>
 
 `n8n` · `REST APIs` · `Webhooks` · `SQL` · `Automation` · `Integrations`
 
+</div>
+
+<br>
+
+> Tecnologias aqui representam ferramentas que utilizo, estudo ou estou explorando — não uma lista de coisas que simplesmente quero colocar no perfil. 😌
+
+<br>
+
 ---
 
-## 🚀 What I'm building
+<br>
+
+## 🚀 O que estou construindo
+
+<br>
 
 <table>
 <tr>
-<td width="50%"><b>🤖 Automation</b><br><br>Workflows that connect systems and remove repetitive work.</td>
-<td width="50%"><b>⚙️ Backend</b><br><br>APIs, business logic and systems behind digital products.</td>
+<td width="50%" valign="top">
+
+### 🤖 Automação
+
+Workflows que conectam sistemas e eliminam tarefas repetitivas.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+APIs, regras de negócio e sistemas por trás de produtos digitais.
+
+</td>
 </tr>
 <tr>
-<td width="50%"><b>🔗 Integrations</b><br><br>Connecting APIs, databases, CRMs and communication systems.</td>
-<td width="50%"><b>🚀 Products</b><br><br>Turning ideas and business problems into usable digital products.</td>
+<td width="50%" valign="top">
+
+### 🔗 Integrações
+
+Conectando APIs, bancos de dados, CRMs e sistemas de comunicação.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Produtos
+
+Transformando ideias e problemas reais em produtos digitais úteis.
+
+</td>
 </tr>
 </table>
 
+<br>
+
 ---
 
-## 📌 Selected projects
+<br>
 
-| Project | What it represents |
+## 📌 Projetos em destaque
+
+<br>
+
+| Projeto | O que representa |
 |---|---|
-| 💎 [Maliá](https://github.com/Fermunizs/malia) | Digital commerce · Supabase · JavaScript |
-| 💰 [Fintech](https://github.com/Fermunizs/fintech) | Financial management · React · JavaScript |
-| 🎯 [Counting My Goals](https://github.com/Fermunizs/counting-my-goals) | Goal tracking · Web development |
-| 🧪 [JavaScript Playground](https://github.com/Fermunizs/javascript-playground) | Logic · Challenges · Fundamentals |
-| 🐍 [Python Playground](https://github.com/Fermunizs/python-playground) | Python fundamentals · Practice |
-| ☕ [Java Playground](https://github.com/Fermunizs/java-playground) | Java · OOP · Backend fundamentals |
-| 🔷 [TypeScript Playground](https://github.com/Fermunizs/typescript-playground) | TypeScript · Typed JavaScript |
+| 💎 [Maliá](https://github.com/Fermunizs/malia) | E-commerce · Supabase · JavaScript |
+| 💰 [Fintech](https://github.com/Fermunizs/fintech) | Gestão financeira · React · JavaScript |
+| 🎯 [Counting My Goals](https://github.com/Fermunizs/counting-my-goals) | Metas · Desenvolvimento web |
+| 🧪 [JavaScript Playground](https://github.com/Fermunizs/javascript-playground) | Lógica · Desafios · Fundamentos |
+| 🐍 [Python Playground](https://github.com/Fermunizs/python-playground) | Fundamentos de Python · Prática |
+| ☕ [Java Playground](https://github.com/Fermunizs/java-playground) | Java · OOP · Fundamentos de backend |
+| 🔷 [TypeScript Playground](https://github.com/Fermunizs/typescript-playground) | TypeScript · Tipagem · Prática |
+
+<br>
 
 ---
+
+<br>
 
 ## 📊 GitHub activity
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fermunizs&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+
+&nbsp;&nbsp;&nbsp;
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fermunizs&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 
-<br><br>
+<br><br><br>
 
 <img src="https://streak-stats.demolab.com?user=Fermunizs&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
 
+<br><br>
+
 ---
+
+<br>
 
 ## 🐍 Contribution activity
 
 <div align="center">
+
+<br>
+
 <img src="https://raw.githubusercontent.com/Fermunizs/Fermunizs/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+
+<br>
+
 </div>
 
+<br>
+
 ---
 
-## 🌱 Currently learning
+<br>
+
+## 🌱 Atualmente aprendendo
+
+<br>
 
 ```text
-Java              → Fundamentals · OOP · Collections · Backend
-TypeScript        → Types · Interfaces · Generics · Backend
-Software Eng.     → Architecture · Clean Code · Design Patterns · Scalability
+Java
+ ├── Fundamentos
+ ├── OOP
+ ├── Collections
+ └── Backend
+
+TypeScript
+ ├── Types
+ ├── Interfaces
+ ├── Generics
+ └── Backend
+
+Engenharia de Software
+ ├── Arquitetura
+ ├── Clean Code
+ ├── Design Patterns
+ └── Escalabilidade
 ```
+
+<br>
 
 ---
 
-## 💭 My philosophy
+<br>
+
+## 💭 Minha filosofia
 
 > **What am I building today for my tomorrow?**
 
-I believe the best way to learn technology is to **build with it**.
+Acredito que a melhor forma de aprender tecnologia é **construindo com ela**.
 
-Every repository here represents something I learned, broke, fixed, improved or understood a little better.
+Cada repositório aqui representa algo que aprendi, quebrei, corrigi, melhorei ou finalmente entendi um pouco melhor.
+
+<br><br>
 
 ---
 
-## 📫 Let's connect
+<br>
+
+## 📫 Vamos conversar?
 
 <div align="center">
+
 <a href="https://github.com/Fermunizs"><img src="https://img.shields.io/badge/GitHub-Fermunizs-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-5066A6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br><br>
 
